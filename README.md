@@ -2,7 +2,7 @@
 
 > A basic concept using Nuxt and Python to decouple template engines in Python web applications.
 
-Read the post [here](https://www.codementor.io/lautiamkok/) about this repository.
+Read the post [here](https://www.codementor.io/lautiamkok/creating-a-nuxt-application-with-python-frameworks-kd2yjqsfx) about this repository.
 
 ## Nuxt Setup
 
