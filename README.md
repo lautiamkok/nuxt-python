@@ -40,7 +40,7 @@ Then, access it at http://localhost:5000/
 
 2. Python
 
-### Flask
+    ### Flask
 
-* [Flask](http://flask.pocoo.org/docs/1.0/)
-* [Flask Cors](https://flask-cors.readthedocs.io/en/latest/)
+    * [Flask](http://flask.pocoo.org/docs/1.0/)
+    * [Flask Cors](https://flask-cors.readthedocs.io/en/latest/)
